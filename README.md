@@ -13,6 +13,3 @@ JavaScriptで作成したシンプルなタイピングゲームです。
 - ミスタイプ時の視覚フィードバック
 - 制限時間（60秒）
 - スコア＆ランク判定
-
-## デモ
-https://ofkbomk.github.io/javascript-advanced-demo/
